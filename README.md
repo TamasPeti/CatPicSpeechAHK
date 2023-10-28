@@ -1,7 +1,9 @@
 # 🐱 CatPicSpeechAHK 🐱
 
 ## 🎉 Description
-Ever wanted to speak in cat pictures? Now you can! CatPicSpeechAHK is a small, fun script that lets you communicate using adorable cat images from cataas.com. It's like talking in a secret, fluffy language that only cat lovers understand! 😺
+Ever wanted to speak in cat pictures? Now you can! CatPicSpeechAHK is a small, fun script that lets you communicate using adorable cat images from cataas.com*. It's like talking in a secret, fluffy language that only cat lovers understand! 😺
+
+<sup>*Only works on platforms that support image embeds from URLs. e.g.: Discord)</sup>
 
 ## 🚀 How to Use
 1. Install the magical [AutoHotkey](https://www.autohotkey.com/) on your computer. It's like a wand for your PC! ✨
